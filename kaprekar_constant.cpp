@@ -1,4 +1,3 @@
-
 #include<iostream>                          
 using namespace std;
 int cal(int);                   //function declaration
@@ -15,9 +14,8 @@ int main()                  //main function
     {
         result =cal(result);
     }
- 
-  
 }
+
 
 int cal(int number)                    // taking number input from main function
 {
